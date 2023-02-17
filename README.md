@@ -1,4 +1,4 @@
-|> The Lame Security Researcher
+The Lame Security Researcher
 ----------------------------------------------------------------
 
 - 👋 Hi, I’m The Lame Security Researcher
