@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on lame things
 - 📫 How to reach me @pwnesec
 - 🌱 Total visits on my profile
-      - <img src="https://profile-counter.glitch.me/pwnesec/count.svg">
+- - <img src="https://profile-counter.glitch.me/pwnesec/count.svg">
