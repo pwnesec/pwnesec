@@ -1,12 +1,11 @@
 The Lame Security Researcher
 ----------------------------------------------------------------
 
-- 👋 Hi, I’m The Lame Security Researcher
-- 👀 I’m interested in almost every lame thing
-- 🌱 I’m currently learning about many lame security issues
+- 👋 Hi, I’m Arham Khan also known as pwnesec
+- 👀 I’m interested in almost every field of hacking
+- 🌱 I’m currently learning about many other fields
 - 💞️ I’m looking to collaborate on lame things
 - 📫 How to reach me @pwnesec
-- 🌱 Total visits on my profile
 
 ----------------------------------------------------------------
 
