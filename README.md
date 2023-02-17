@@ -2,9 +2,7 @@ The Lame Security Researcher
 
 ----------------------------------------------------------------
 
-👋 Hi everyone! I’m currently working in the sector of 
-Cyber Security mainly as a Bounty Hunter and Penetration Tester,
-performing Web/Mob/Network Application security assessments. 
+👋 Hi everyone! My name i Arham Khan. I'm currently working in the cyber security sector mainly as a bounty hunter and penetration tester, performing web/mobile application security ans network secureity assessments. Certified Ethical Hacker having almost 4 years of experience and understanding of cyber security disciplines. Passionate about working in cross-section of fields
 
 ----------------------------------------------------------------
 
