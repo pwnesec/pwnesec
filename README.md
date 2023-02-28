@@ -2,8 +2,18 @@ The Lame Security Researcher
 
 ----------------------------------------------------------------
 
-👋 Hi everyone! My name i Arham Khan. I'm currently working in the cyber security sector mainly as a bounty hunter and penetration tester, performing web/mobile application security ans network secureity assessments. Certified Ethical Hacker having almost 4 years of experience and understanding of cyber security disciplines. Passionate about working in cross-section of fields
+### My profiles & Contacts
+- 🔰 [Hackerone](https://hackerone.com/pwnesec)
+- 🔰 [Linkedin](https://www.linkedin.com/in/pwnesec/)
+- 🔰 [YouTube](https://youtube.com/pwnesec)
+- 🔰 [Twitter](https://twitter.com/pwnesec)
 
-----------------------------------------------------------------
+*************
 
-<img src="https://profile-counter.glitch.me/pwnesec/count.svg">
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=remonsec&&show_icons=true&theme=radical"/>
+</a>
+</p>
+
+*************
