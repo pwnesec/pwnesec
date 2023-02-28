@@ -3,7 +3,6 @@
 ### My profiles & Contacts
 - 🔰 [Hackerone](https://hackerone.com/pwnesec)
 - 🔰 [Linkedin](https://www.linkedin.com/in/pwnesec/)
-- 🔰 [YouTube](https://youtube.com/pwnesec)
 - 🔰 [Twitter](https://twitter.com/pwnesec)
 
 *************
