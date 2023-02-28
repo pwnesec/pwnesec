@@ -1,5 +1,3 @@
-The Lame Security Researcher
-
 ----------------------------------------------------------------
 
 ### My profiles & Contacts
